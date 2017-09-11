@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="355529" started-at="2017-09-06T07:00:54Z" finished-at="2017-09-06T07:06:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="355529" started-at="2017-09-06T07:00:54Z" finished-at="2017-09-06T07:06:50Z">
+      <class name="sel.trn.pyd.PyramidCoreFrame">
+        <test-method status="PASS" signature="open()[pri:0, instance:sel.trn.pyd.PyramidCoreFrame@59f99ea]" name="open" is-config="true" duration-ms="41147" started-at="2017-09-06T12:30:54Z" finished-at="2017-09-06T12:31:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="orgcapa()[pri:1, instance:sel.trn.pyd.PyramidCoreFrame@59f99ea]" name="orgcapa" duration-ms="917" started-at="2017-09-06T12:31:36Z" finished-at="2017-09-06T12:31:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orgcapa -->
+        <test-method status="PASS" signature="close()[pri:0, instance:sel.trn.pyd.PyramidCoreFrame@59f99ea]" name="close" is-config="true" duration-ms="2391" started-at="2017-09-06T12:31:37Z" finished-at="2017-09-06T12:31:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="open()[pri:0, instance:sel.trn.pyd.PyramidCoreFrame@59f99ea]" name="open" is-config="true" duration-ms="30610" started-at="2017-09-06T12:31:39Z" finished-at="2017-09-06T12:32:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="feedback()[pri:2, instance:sel.trn.pyd.PyramidCoreFrame@59f99ea]" name="feedback" duration-ms="223" started-at="2017-09-06T12:32:10Z" finished-at="2017-09-06T12:32:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feedback -->
+        <test-method status="PASS" signature="close()[pri:0, instance:sel.trn.pyd.PyramidCoreFrame@59f99ea]" name="close" is-config="true" duration-ms="6979" started-at="2017-09-06T12:32:10Z" finished-at="2017-09-06T12:32:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="open()[pri:0, instance:sel.trn.pyd.PyramidCoreFrame@59f99ea]" name="open" is-config="true" duration-ms="31936" started-at="2017-09-06T12:32:17Z" finished-at="2017-09-06T12:32:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="topframe()[pri:3, instance:sel.trn.pyd.PyramidCoreFrame@59f99ea]" name="topframe" duration-ms="113" started-at="2017-09-06T12:32:49Z" finished-at="2017-09-06T12:32:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- topframe -->
+        <test-method status="PASS" signature="close()[pri:0, instance:sel.trn.pyd.PyramidCoreFrame@59f99ea]" name="close" is-config="true" duration-ms="2372" started-at="2017-09-06T12:32:49Z" finished-at="2017-09-06T12:32:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="open()[pri:0, instance:sel.trn.pyd.PyramidCoreFrame@59f99ea]" name="open" is-config="true" duration-ms="31173" started-at="2017-09-06T12:32:51Z" finished-at="2017-09-06T12:33:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="timesheet()[pri:4, instance:sel.trn.pyd.PyramidCoreFrame@59f99ea]" name="timesheet" duration-ms="2861" started-at="2017-09-06T12:33:22Z" finished-at="2017-09-06T12:33:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- timesheet -->
+        <test-method status="PASS" signature="close()[pri:0, instance:sel.trn.pyd.PyramidCoreFrame@59f99ea]" name="close" is-config="true" duration-ms="1849" started-at="2017-09-06T12:33:25Z" finished-at="2017-09-06T12:33:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="open()[pri:0, instance:sel.trn.pyd.PyramidCoreFrame@59f99ea]" name="open" is-config="true" duration-ms="34118" started-at="2017-09-06T12:33:27Z" finished-at="2017-09-06T12:34:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="referral()[pri:5, instance:sel.trn.pyd.PyramidCoreFrame@59f99ea]" name="referral" duration-ms="1576" started-at="2017-09-06T12:34:01Z" finished-at="2017-09-06T12:34:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- referral -->
+        <test-method status="PASS" signature="close()[pri:0, instance:sel.trn.pyd.PyramidCoreFrame@59f99ea]" name="close" is-config="true" duration-ms="5312" started-at="2017-09-06T12:34:03Z" finished-at="2017-09-06T12:34:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="open()[pri:0, instance:sel.trn.pyd.PyramidCoreFrame@59f99ea]" name="open" is-config="true" duration-ms="33507" started-at="2017-09-06T12:34:08Z" finished-at="2017-09-06T12:34:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="travel()[pri:6, instance:sel.trn.pyd.PyramidCoreFrame@59f99ea]" name="travel" duration-ms="2173" started-at="2017-09-06T12:34:42Z" finished-at="2017-09-06T12:34:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- travel -->
+        <test-method status="PASS" signature="close()[pri:0, instance:sel.trn.pyd.PyramidCoreFrame@59f99ea]" name="close" is-config="true" duration-ms="2198" started-at="2017-09-06T12:34:44Z" finished-at="2017-09-06T12:34:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="open()[pri:0, instance:sel.trn.pyd.PyramidCoreFrame@59f99ea]" name="open" is-config="true" duration-ms="31123" started-at="2017-09-06T12:34:46Z" finished-at="2017-09-06T12:35:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="masterproject()[pri:7, instance:sel.trn.pyd.PyramidCoreFrame@59f99ea]" name="masterproject" duration-ms="14794" started-at="2017-09-06T12:35:17Z" finished-at="2017-09-06T12:35:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- masterproject -->
+        <test-method status="PASS" signature="close()[pri:0, instance:sel.trn.pyd.PyramidCoreFrame@59f99ea]" name="close" is-config="true" duration-ms="6332" started-at="2017-09-06T12:35:32Z" finished-at="2017-09-06T12:35:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="open()[pri:0, instance:sel.trn.pyd.PyramidCoreFrame@59f99ea]" name="open" is-config="true" duration-ms="32389" started-at="2017-09-06T12:35:38Z" finished-at="2017-09-06T12:36:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="leftframe()[pri:8, instance:sel.trn.pyd.PyramidCoreFrame@59f99ea]" name="leftframe" duration-ms="308" started-at="2017-09-06T12:36:11Z" finished-at="2017-09-06T12:36:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- leftframe -->
+        <test-method status="PASS" signature="close()[pri:0, instance:sel.trn.pyd.PyramidCoreFrame@59f99ea]" name="close" is-config="true" duration-ms="2438" started-at="2017-09-06T12:36:11Z" finished-at="2017-09-06T12:36:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="open()[pri:0, instance:sel.trn.pyd.PyramidCoreFrame@59f99ea]" name="open" is-config="true" duration-ms="32082" started-at="2017-09-06T12:36:13Z" finished-at="2017-09-06T12:36:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="mainframe()[pri:9, instance:sel.trn.pyd.PyramidCoreFrame@59f99ea]" name="mainframe" duration-ms="2610" started-at="2017-09-06T12:36:45Z" finished-at="2017-09-06T12:36:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainframe -->
+        <test-method status="PASS" signature="close()[pri:0, instance:sel.trn.pyd.PyramidCoreFrame@59f99ea]" name="close" is-config="true" duration-ms="1913" started-at="2017-09-06T12:36:48Z" finished-at="2017-09-06T12:36:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- sel.trn.pyd.PyramidCoreFrame -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
